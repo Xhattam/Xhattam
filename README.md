@@ -1,16 +1,16 @@
 # Hi, I'm Jess 👋
 
-## Whats a Xhattam 🤔
+## What's a _Xhattam_ 🤔
 
 There's a little story there. 
 
 - Context: There's a French writer I liked a lot named [Maxime Chattam](https://en.wikipedia.org/wiki/Maxime_Chattam).
 - Problem: I was signing up to a website (maybe even this one) and couln't find an available username. 
-- Resolution: I tried this writer's name in a last ditch attempt and... made a typo.
+- Resolution: I tried this writer's name in a last ditch attempt and... made a **typo**.
 
-BOOM. ✨ Xhattam ✨. Available, all the time, everywhere. I aknowledge it's easier to read than to pronounce (/ksatam/).
+BOOM. ✨ **Xhattam** ✨. Available, all the time, everywhere. I aknowledge it's easier to read than to pronounce (/ksatam/).
 
-But don't hurt yourself, Jess is fine.
+**Jess is fine**.
 
 ## Projects
 
