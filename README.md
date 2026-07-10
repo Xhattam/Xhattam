@@ -27,9 +27,6 @@ Currently, SideCook is in early stages of development, but once it's at a stage 
 
 A volunteering project with the [Royal Berkshire Archives](https://www.royalberkshirearchives.org.uk/), to build small, hopefully helpful tools to help them automate some of the more tedious side of their work.
 
-[Python](https://camo.githubusercontent.com/75f630e9fdd61ed09f6651d5e22192b7b90dd55b80d52f70145b2f5e693e6197/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
-
-
 <!--
 **Xhattam/Xhattam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,4 +40,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+BADGES : https://shields.io/
 -->
